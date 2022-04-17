@@ -50,6 +50,7 @@ body {
   background-color: var(--yellow);
   cursor: pointer;
   padding: 20px 0px;
+  border-radius: 5px;
 }
 
 #login-form a {
